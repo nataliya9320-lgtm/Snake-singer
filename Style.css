@@ -1,0 +1,14 @@
+ol{
+    color: violet;
+}
+p{
+  background-color: green; /* This is my favorite color*/
+  text-decoration: underline;
+  font-family: Verdana;
+}
+ul{
+  font-weight : bold;
+  font-size: large;
+  font-family: Arial Black;
+
+}
